@@ -1,5 +1,5 @@
 # Statistics-and-Prediction-in-Python :
-- descriptive statistics and prediction in Jupyter Notebook
+- descriptive statistics and prediction in Jupyter Notebook, using an artifical dataset
 
 # Statistical techniques used in Python :
 - normal test
